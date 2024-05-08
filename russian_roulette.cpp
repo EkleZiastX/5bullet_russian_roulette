@@ -8,7 +8,7 @@ int main() {
     srand(time(0)); 
 
     cout << "Welcome to russian roulette" << endl;
-    while (1 < 2) {
+    while (true) {
         cout << "Press Enter, for shot..." << endl;
         cin.get(); 
 
